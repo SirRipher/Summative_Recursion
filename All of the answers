@@ -53,6 +53,7 @@ Triangle_thing(branchlen)#starts the function
 
 
     
-
+#this will make a triangle appear on the screen with each side being smaller than the last by five untill eventually it cant go any smaller then it will go forward on and 
+#end the function.
 
 
