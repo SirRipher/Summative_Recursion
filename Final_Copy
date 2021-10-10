@@ -5,6 +5,7 @@
 #----
 import turtle
 
+#-----Main code starts Here-----#
 time = 5 
 branchlen = 40            
 t = turtle.Turtle() #identifies turtle
